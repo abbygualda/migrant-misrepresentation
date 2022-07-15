@@ -1,0 +1,137 @@
+/* NOTE TO SELF: use an # when you are referecing an ID */
+/* NOTE TO SELF: use a . when referecing a class */
+
+#photo {
+
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(0deg, rgba(68, 152, 82, 0.4), rgba(68, 152, 82, 0.4)), url('https://pstnet.com/wp-content/uploads/2017/08/man-writing-notes_4460x4460.jpg');
+}
+
+
+h1 {
+
+    /* MM-headers */
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 90px;
+
+
+    color: #213661;
+
+}
+
+
+/* styling for the paragraph */
+.paragraph1 {
+
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+
+    color: #000000;
+
+}
+
+/* learn more styling */
+.learnMore {
+
+    /* MM-subHeaders */
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #2D4773;
+
+}
+
+/* about & methodology sytling */
+.aboutTitle {
+
+    /* MM-subHeaders */
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    color: #33341A;
+
+}
+
+/* paragraph starting with "Starting" styling  */
+.paragraph2 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    color: #33341A;
+}
+
+/* sytling for "Our quantiative" paragraph */
+.paragraph3 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    color: #33341A;
+}
+
+
+/* sytling for "All files" paragraph*/
+.paragraph4 {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    color: #33341A;
+}
+
+/* styling for Visualizing Data Title */
+.VisualizingData {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #33341A;
+}
+
+
+/* Styling for "Our research fills */
+.paragraph5 {
+
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+
+    color: #33341A;
+}
+
+/* stylying for data collecting option title */
+.dataCollecting {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+
+
+    color: #33341A;
+
+}
